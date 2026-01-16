@@ -44,21 +44,21 @@ const Contact = () => {
                             <FaLocationDot />
                             <div>
                                 <h5>Visit Us</h5>
-                                <p>123 Dental Street, Wellness City, WC 45678</p>
+                                <p>PRampur Rd, near Hotel Amardeep, Haldwani, Karayalpur Chatursingh, Uttarakhand 263139</p>
                             </div>
                         </div>
                         <div className="info-item">
                             <FaPhone />
                             <div>
                                 <h5>Call Us</h5>
-                                <p>+1 (555) 123-4567</p>
+                                <p>+91 9756876886</p>
                             </div>
                         </div>
                         <div className="info-item">
                             <FaEnvelope />
                             <div>
                                 <h5>Email Us</h5>
-                                <p>info@brightsmile.com</p>
+                                <p>Pritambora93@gmail.com</p>
                             </div>
                         </div>
                         <div className="info-item">
