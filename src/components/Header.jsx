@@ -34,7 +34,7 @@ const Header = () => {
         <nav className={`navbar ${isSticky ? 'sticky' : ''}`} id="navbar">
             <div className="container">
                 <a href="#" className="logo" onClick={closeMenu}>
-                    <FaTooth /> Bright<span>Smile</span>
+                    <FaTooth /> DEVNANDA<span>CLINIC</span>
                 </a>
 
                 <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
